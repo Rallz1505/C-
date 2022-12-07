@@ -1,0 +1,8 @@
+C:\Users\rasmu\source\repos\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe.config
+C:\Users\rasmu\source\repos\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe
+C:\Users\rasmu\source\repos\Lommeregner\Lommeregner\bin\Debug\Lommeregner.pdb
+C:\Users\rasmu\source\repos\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.AssemblyReference.cache
+C:\Users\rasmu\source\repos\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.SuggestedBindingRedirects.cache
+C:\Users\rasmu\source\repos\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\Lommeregner\Lommeregner\obj\Debug\Lommeregner.exe
+C:\Users\rasmu\source\repos\Lommeregner\Lommeregner\obj\Debug\Lommeregner.pdb

@@ -1,0 +1,8 @@
+C:\Users\rasmu\source\repos\FørsteProject\FørsteProject\obj\Debug\FørsteProject.csproj.AssemblyReference.cache
+C:\Users\rasmu\source\repos\FørsteProject\FørsteProject\obj\Debug\FørsteProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\rasmu\source\repos\FørsteProject\FørsteProject\obj\Debug\FørsteProject.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\FørsteProject\FørsteProject\bin\Debug\FørsteProject.exe.config
+C:\Users\rasmu\source\repos\FørsteProject\FørsteProject\bin\Debug\FørsteProject.exe
+C:\Users\rasmu\source\repos\FørsteProject\FørsteProject\bin\Debug\FørsteProject.pdb
+C:\Users\rasmu\source\repos\FørsteProject\FørsteProject\obj\Debug\FørsteProject.exe
+C:\Users\rasmu\source\repos\FørsteProject\FørsteProject\obj\Debug\FørsteProject.pdb
